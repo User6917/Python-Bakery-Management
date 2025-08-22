@@ -55,6 +55,13 @@ A comprehensive bakery management system written in Python, designed to handle a
 - Passwords are encrypted using a custom method for basic security.
 - The system is designed for educational and demonstration purposes.
 
+## Contributors
+
+- @User6917
+- @nat322
+- @PCV939
+- @ARUYIE
+
 ## License
 
 This project is licensed under the MIT License.
