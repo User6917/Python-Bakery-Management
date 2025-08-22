@@ -57,10 +57,10 @@ A comprehensive bakery management system written in Python, designed to handle a
 
 ## Contributors
 
-- @User6917
-- @nat322
-- @PCV939
-- @ARUYIE
+- [@User6917](https://github.com/User6917)
+- [@nat322](https://github.com/nat322)
+- [@PCV939](https://github.com/PCV939)
+- [@ARUYIE](https://github.com/ARUYIE)
 
 ## License
 
