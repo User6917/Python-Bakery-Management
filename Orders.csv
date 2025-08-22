@@ -1,0 +1,10 @@
+No.Order,OrderID,Email,Order_details,Cost,Status
+O0001,OID03130410542024,-,Almond Triangle 5; Kouign Amann 9; Longue Chocolate 6,-,Completed
+O0002,OID03131610472024,-,Apricot Danish 9; Raisin Whirl 12,-,Rejected
+O0003,OID21135010382024,owcs@gmail.com,Almond Triangle 5; Chocolate Roll 8,-,Completed
+O0004,OID21135010382024,sady@gmail.com,Croissant 5; Bread 8; Cream Puffs 7,-,Completed
+O0005,OID16161210582024,owcs@gmail.com,Pecan Preglazed 6; Apricot Danish 12; Croissant 7,RM118,Completed
+O0006,OID11174910092024,owcs@gmail.com,Kouign Amann 6; Longue Chocolate 8,RM76,Completed
+O0007,OID00203410122024,owcs@gmail.com,Chocolate Roll 6,RM24,Completed
+O0008,OID12242910142024,funnyman@gmail.com,Mini Twist Chocolate 5; Apple Pastry 6,RM50,Pending
+O0009,OID16225308022025,pro@gmail.com,Croissant 12; Raisin Whirl 10,RM108,Completed

@@ -1,0 +1,14 @@
+UUID,Name,In-stock,Price(RM),Supplier
+I01,Flour,780800g,7/Kg,BakerBhd
+I02,Sugar,48560g,6/Kg,BakerBhd
+I03,Eggs,1200,2/dozen,AnimalFarmsLtd
+I04,Butter,20400g,80/Kg,AnimalFarmsLtd
+I05,Milk,72800mL,4/L,AnimalFarmsLtd
+I06,Baking Powder,30000g,6/Kg,BakerBhd
+I07,Baking Soda,20000g,30/Kg,BakerBhd
+I08,Yeast,9040g,70/Kg,BakerBhd
+I09,Chocolate Extract,20000g,50/Kg,DessertsLtd
+I10,Jam,20000g,100/Kg,DessertsLtd
+I11,Honey,20000g,40/Kg,DessertsLtd
+I12,Water,15200g,2/L,WaterSupBhd
+I13,Salt,520g,6/Kg,FactorIOSdnBhd

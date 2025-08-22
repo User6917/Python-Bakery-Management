@@ -1,0 +1,9 @@
+UUID,Name,BuyPrice(RM),MaintenanceCost(RM),Supplier
+M01,Mixer,3000,500,SteelWorks
+M02,Oven,12000,1500,SteelWorks
+M03,Sheeter,7500,700,BakersIrons
+M04,Proofer,4000,300,BakersIrons
+M05,Dough Divider,3500,300,SteelWorks
+M06,Dough Rounder,2000,300,SteelWorks
+M07,Refridgerator,3000,200,Panasonic
+M08,Freezer,3000,200,Panasonic

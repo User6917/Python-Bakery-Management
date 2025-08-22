@@ -1,0 +1,21 @@
+RequestID,RequestItems,RequestStatus
+Req0001,Salt 20; Water 300,Not fulfilled
+Req0002,Salt 20; Water 300,Not fulfilled
+Req0003,Salt 20; Water 300,Not fulfilled
+Req0004,Salt 20; Water 300,Not fulfilled
+Req0005,Salt 20; Water 300,Not fulfilled
+Req0006,Salt 20; Water 300,Not fulfilled
+Req0007,Salt 20; Water 300,Not fulfilled
+Req0008,Salt 20; Water 300,Not fulfilled
+Req0009,Salt 20; Water 300,Not fulfilled
+Req0010,Dark_Chocolate; Salt 1g; Water 20mL,Not fulfilled
+Req0011,Dark_Chocolate 15g; Salt 1g; Water 20mL,Not fulfilled
+Req0012,Dark_Chocolate 15g; Salt 1g; Water 20mL,Not fulfilled
+Req0013,Dark_Chocolate 15g; Salt 1g; Water 20mL,Not fulfilled
+Req0014,Raisins 15g; Cinnamon 1g; Salt 1g; Water 20mL,Not fulfilled
+Req0015,Raisins 15g; Cinnamon 1g; Salt 1g; Water 20mL,Not fulfilled
+Req0016,Dark_Chocolate 1125; Salt 75; Water 1500,Not fulfilled
+Req0017,Raisins 420,Not fulfilled
+Req0018,Raisins 420; Cinnamon 28,Not fulfilled
+Req0019,Raisins 420; Cinnamon 28,Not fulfilled
+Req0020,Flour 1166620; Butter 499980; Dark_Chocolate 416650; Sugar 166660; Salt 16666; Yeast 41665; Milk 416650,Not fulfilled

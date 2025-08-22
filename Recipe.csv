@@ -1,0 +1,14 @@
+RecipeID,Name,Ingredients,Output Quantity(g)
+R01,Croissant,Flour 150g; Butter 80g; Sugar 10g; Salt 2g; Yeast 5g; Milk 50mL; Water 30mL,100
+R02,Mini Croissant,Flour 40g; Butter 20g; Sugar 3g; Salt 1g; Yeast 2g; Milk 15mL; Water 10mL ,25
+R03,Chocolate Roll,Flour 100g; Butter 50g; Sugar 20g; Dark_Chocolate 30g; Salt 1g; Yeast 4g; Milk 30mL; Water 20mL,75
+R04,Pecan Preglazed,Flour 120g; Butter 60g; Pecans 30g; Sugar 25g; Honey 10g; Salt 2g; Yeast 5g; Milk 40mL,98
+R05,Kouign Amann,Flour 100g; Butter 70g; Sugar 30g; Salt 1g; Yeast 5g; Water 40mL,70
+R06,Apple Strudel,Flour 120g; Butter 40g; Apples 70g; Sugar 20g; Cinnamon 2g; Salt 1g; Water 50mL,110
+R07,Almond Triangle,Flour 140g; Butter 60g; Almonds 50g; Sugar 25g; Salt 2g; Yeast 5g; Milk 50mL,120
+R08,Longue Chocolate,Flour 140g; Butter 60g; Dark_Chocolate 50g; Sugar 20g; Salt 2g; Yeast 5g; Milk 50mL,120
+R09,Apricot Danish,Flour 150g; Butter 70g; Apricot_Jam 50g; Sugar 20g; Salt 2g; Yeast 5g; Milk 50mL,135
+R10,Apple Pastry,Flour 50g; Butter 20g; Apples 20g; Sugar 10g; Cinnamon 1g; Salt 1g; Water 20mL,40
+R11,Cherry Pastry,Flour 50g; Butter 20g; Cherry_Filling 20g; Sugar 10g; Salt 1g; Water 20mL,40
+R12,Raisin Whirl,Flour 50g; Butter 20g; Raisins 15g; Sugar 10g; Cinnamon 1g; Salt 1g; Water 20mL,35
+R13,Mini Twist Chocolate,Flour 50g; Butter 20g; Dark_Chocolate 15g; Sugar 10g; Salt 1g; Yeast 2g; Water 20mL,40

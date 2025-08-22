@@ -1,0 +1,14 @@
+ProductID,Name,Weight(G),ShelfLife(M),Price(RM),Quantity,Availability
+P01,Croissant,100,12,4,50,Available
+P02,Mini Croissant,25,12,2,90,Available
+P03,Chocolate Roll,75,12,4,50,Available
+P04,Pecan Preglazed,98,12,5,50,Available
+P05,Kouign Amann,70,6,6,50,Available
+P06,Apple Strudel,110,12,9,50,Available
+P07,Almond Triangle,120,9,4,50,Available
+P08,Longue Chocolate,120,12,5,50,Available
+P09,Apricot Danish,135,6,5,50,Available
+P10,Apple Pastry,40,9,5,50,Available
+P11,Cherry Pastry,40,9,5,50,Available
+P12,Raisin Whirl,35,9,6,50,Available
+P13,Mini Twist Chocolate,40,9,4,50,Available
